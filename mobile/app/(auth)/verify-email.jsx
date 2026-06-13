@@ -122,4 +122,5 @@ const VerifyEmail = ({ email, onBack }) => {
     </View>
   );
 };
+
 export default VerifyEmail;
